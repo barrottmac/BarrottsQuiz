@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Barrott\'s Quiz Generator</string>
+    <string name="selectTerm">Select the correct term to match the definition</string>
+    <string name="definition">Definition</string>
+    <string name="term1">Term 1</string>
+    <string name="term2">Term 2</string>
+    <string name="term3">Term 3</string>
+    <string name="term4">Term 4</string>
+    <string name="next">Next</string>
+    <string name="score">Your Score</string>
+    <string name="restart">Restart Quiz</string>
+
+</resources>
